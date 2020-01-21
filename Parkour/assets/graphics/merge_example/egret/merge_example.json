@@ -1,0 +1,6 @@
+{"file":"merge_example.png",
+"frames":
+{"shap1.png":{"x":0,"y":0,"w":87,"h":87,"offX":0,"offY":0,"sourceW":87,"sourceH":87},
+"shap3.png":{"x":89,"y":0,"w":87,"h":87,"offX":0,"offY":0,"sourceW":87,"sourceH":87},
+"shap2.png":{"x":0,"y":89,"w":87,"h":87,"offX":0,"offY":0,"sourceW":87,"sourceH":87},
+"shap4.png":{"x":89,"y":89,"w":87,"h":87,"offX":0,"offY":0,"sourceW":87,"sourceH":87}}}
