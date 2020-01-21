@@ -1,2 +1,2 @@
 # autochess
-phaser  game
+phaser wechat game
